@@ -1,8 +1,8 @@
 #BlueJ class context
-comment0.target=KaraWorld
-comment0.text=\n\ This\ class\ creates\ a\ world\ for\ Kara.\ It\ contains\ settings\ for\ height\ and\ \n\ width\ of\ the\ world\ and\ initializes\ the\ Actors.\n\ \n\ @author\ Barne\ Kleinen\n
+comment0.target=KaraWorld_C
+comment0.text=\n\ This\ class\ creates\ a\ world\ for\ Kara.\ It\ contains\ settings\ for\ height\ and\ \n\ width\ of\ the\ world\ and\ initializes\ the\ Actors.\n\ \n\ @author\ Marco\ Jakob\ (majakob@gmx.ch)\n\ @version\ 1.3\ (2012-07-04)\n
 comment1.params=
-comment1.target=KaraWorld()
+comment1.target=KaraWorld_C()
 comment1.text=\n\ Creates\ a\ world\ for\ Kara.\n
 comment2.params=
 comment2.target=void\ prepare()
