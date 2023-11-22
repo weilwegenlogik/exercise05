@@ -18,6 +18,10 @@ public class NotebookGUI
         notebook = new Notebook();
         makeFrame();
     }
+    
+    
+    
+    
 
     private void makeFrame(){
         JFrame frame = new JFrame("Notebook");

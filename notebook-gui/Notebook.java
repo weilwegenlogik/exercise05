@@ -12,6 +12,27 @@ public class Notebook
 {
     // Storage for an arbitrary number of notes.
     private ArrayList<String> notes;
+    
+    
+    public String getAll() {
+        return "not implemented yet";
+    }
+    
+    public String getNotesWith(String str) {
+        return "not implemented yet";
+    }
+    
+    public String getAllNumbered() {
+        return "not implemented yet";
+    }
+    
+    public void removeNotes(String str) {
+        
+    }
+    
+    public void removeNotesWithIndex(String str) {
+        
+    }
 
     /**
      * Perform any initialization that is required for the
